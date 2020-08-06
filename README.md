@@ -1,4 +1,4 @@
-# ETL-project
+# Delhi Air Quality and Climate Parameter Dataset
 
 For this project, our team explored datasets that contributed to the air quality of New Delhi - an expansion from our previous work. Therefore we utilized two CSVs, one from an archived API we previously had cleaned and another from Kaggle. 
 
@@ -29,14 +29,15 @@ https://openaq-data.s3.amazonaws.com/index.html
 
 ## Transformation 
 
-* Conducted Pandas functions in Jupyter Notebook to load all two CSV files.
+* Used Pandas dataframes in Jupyter Notebook to load and manipulate our two CSV files.
 * Reviewed the files, cleaned and transformed/concatenated into one dataframe with date being the common identifier. 
-* 
 
 ## Load
 A database was created with a respective table to match the columns found in the Jupter notebook using Pandas. Using PG admin in SQL’s Postgres as a server to store our cleaned data frame into a table. We reconnected to the database and generated a dataframe. 
 
+
 ## Summary
 There were limitations in finding longitudinal data in both CSV files without missing data. We were limited to only one year’s worth of data. By cleaning this dataframe, we created a user friendly data set that can be used to analyze the correlation between climate change and air quality. 
 
-Team Members: Anjelica, Brandon, Emma, Sanjaye
+Team Members: Emma Lipari, Brandon Mohammed, Anjelica Ramsey, Sanjaye Thomas
+
