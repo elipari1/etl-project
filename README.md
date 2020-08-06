@@ -13,10 +13,10 @@ The fields of interest include the following:
 	*co
 	*no2
 	*o3
-*pm25
-*pm10
+	*pm25
+	*pm10
 
-*          Climate values that impact air quality 
+*       Climate values that impact air quality 
 	*mean temperature
 	*humidity
 	*wind speed
