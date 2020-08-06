@@ -9,18 +9,9 @@ Two files included the following information from the dates 04/26/16-04/25/17:
 
 The fields of interest include the following:
 
-Pollutant values that indicate air quality 
-	*co
-	*no2
-	*o3
-	*pm25
-	*pm10
+Pollutant values that indicate air quality: co, no2, o3, pm25, pm10
 
-Climate values that impact air quality 
-	*mean temperature
-	*humidity
-	*wind speed
-	*mean pressure 
+Climate values that impact air quality: mean temperature, humidity, wind speed, mean pressure 
 
 The following sources for our datasets used:
 
