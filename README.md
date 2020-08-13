@@ -15,9 +15,9 @@ The following sources for our datasets used:
 * https://openaq-data.s3.amazonaws.com/index.html
 
 ## Transformation:
-*Use Quick Database Diagrams to create an entity relationship database using website: https://www.quickdatabasediagrams.com/.
-*Used Pandas dataframes in Jupyter Notebook to load and manipulate our two CSV files.
-*Reviewed, cleaned and transformed 2 tables - Climate_Delhi & Air_Quality_Delhi.
+* Use Quick Database Diagrams to create an entity relationship database using website: https://www.quickdatabasediagrams.com/.
+* Used Pandas dataframes in Jupyter Notebook to load and manipulate our two CSV files.
+* Reviewed, cleaned and transformed 2 tables - Climate_Delhi & Air_Quality_Delhi.
 
 ## Load:
 A database was created with a respective tables to match the columns found for each table in the Jupter notebook using Pandas. 
